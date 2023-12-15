@@ -86,34 +86,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" style="background-color: white;"/>
 </p>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](#) in [repo-name](#)
-2. ❗️ Opened issue [#259](#) in [repo-name](#)
-3. 🎉 Merged PR [#204](#) in [repo-name](#)
-4. 💪 Opened PR [#204](#) in [repo-name](#)
-<!--END_SECTION:activity-->
 
-</details>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alirezaebrahimi5)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alirezaebrahimi5&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alirezaebrahimi5&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezaebrahimi5&show_icons=true" />
-</picture>
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaebrahimi5)](https://github.com/alirezaebrahimi5/github-readme-stats)
 
 [website]: https://are.github.io
 [linkedin]: https://linkedin.com/in/alirezaebrahimi5
