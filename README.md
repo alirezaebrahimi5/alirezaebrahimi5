@@ -1,3 +1,5 @@
+![18549-paws-animation](https://github.com/alirezaebrahimi5/alirezaebrahimi5/33178118/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif)
+
 # Hi, I'm Alireza Ebrahimi 👋
 
 I'm a passionate Software Engineer with a diverse background in full-stack development, data science, and systems design. Currently, I'm working remotely at Experiential Life Center, where I specialize in building scalable and robust software solutions.
