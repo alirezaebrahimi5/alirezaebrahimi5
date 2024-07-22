@@ -1,4 +1,4 @@
-![18549-paws-animation](https://github.com/alirezaebrahimi5/alirezaebrahimi5/33178118/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif)
+![18549-code-animation](https://github.com/alirezaebrahimi5/alirezaebrahimi5/blob/main/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif)
 
 # Hi, I'm Alireza Ebrahimi 👋
 
