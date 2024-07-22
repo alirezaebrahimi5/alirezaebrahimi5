@@ -66,3 +66,7 @@ I'm a passionate Software Engineer with a diverse background in full-stack devel
 - **LinkedIn**: [Alireza Ebrahimi](https://www.linkedin.com/in/ebrahimi-alireza/)
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alirezaebrahimi5.alirezaebrahimi5&"  />
+</div>
