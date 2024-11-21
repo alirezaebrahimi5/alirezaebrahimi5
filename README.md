@@ -82,6 +82,14 @@ Feel free to reach out via email or connect on [LinkedIn](https://www.linkedin.c
 
 ![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezaebrahimi5&show_icons=true&theme=radical)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alirezaebrahimi5&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=7&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alirezaebrahimi5.alirezaebrahimi5&"  />
+</div>
+
 ### 🗣️ Languages Used in Repositories
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaebrahimi5&layout=compact&theme=radical)
