@@ -83,6 +83,13 @@ Feel free to reach out via email or connect on [LinkedIn](https://www.linkedin.c
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alirezaebrahimi5.alirezaebrahimi5&" alt="Visitor Badge">
   <table>
+    <!-- Achievements Row -->
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=alirezaebrahimi5&theme=onestar&no-frame=true&row=1&column=5" alt="GitHub Achievements">
+      </td>
+    </tr>
+    <!-- Stats and Graphs Row -->
     <tr>
       <td>
         <a href="https://git.io/awesome-stats-card">
@@ -93,6 +100,7 @@ Feel free to reach out via email or connect on [LinkedIn](https://www.linkedin.c
         <img src="https://streak-stats.demolab.com?user=alirezaebrahimi5&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=7&order=3" height="220" alt="Streak Graph">
       </td>
     </tr>
+    <!-- Languages and Activity Graph Row -->
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaebrahimi5&layout=compact&theme=radical" alt="Top Languages">
@@ -105,5 +113,6 @@ Feel free to reach out via email or connect on [LinkedIn](https://www.linkedin.c
     </tr>
   </table>
 </div>
+
 
 
