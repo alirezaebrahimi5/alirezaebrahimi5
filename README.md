@@ -27,7 +27,7 @@ Experienced Full Stack Developer with over **8 years** in software engineering, 
 
 ### 💼 Professional Experience
 
-#### Software Engineer  
+#### Technical Team Lead And Software Engineer  
 **Experiential Life Center** | April 2024 - Present  
 - Developed scalable software solutions and implemented front-end features using React.js and Next.js.
 - Built RESTful APIs and microservices with Django and Express.js.
@@ -80,17 +80,30 @@ Feel free to reach out via email or connect on [LinkedIn](https://www.linkedin.c
 
 ### 🔗 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alirezaebrahimi5?cardType=level&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alirezaebrahimi5&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=7&order=3" height="220" alt="streak graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alirezaebrahimi5.alirezaebrahimi5&" alt="Visitor Badge">
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/awesome-stats-card">
+          <img src="https://awesome-github-stats.azurewebsites.net/user-stats/alirezaebrahimi5?cardType=level&theme=merko&preferLogin=false" alt="My Awesome Stats">
+        </a>
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=alirezaebrahimi5&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=7&order=3" height="220" alt="Streak Graph">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaebrahimi5&layout=compact&theme=radical" alt="Top Languages">
+      </td>
+      <td>
+        <a href="#gh-dark-mode-only">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezaebrahimi5&theme=github-dark&point=0D92F400&radius=16#gh-dark-mode-only" alt="Activity Graph">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alirezaebrahimi5.alirezaebrahimi5&"  />
-</div>
-
-### 🗣️ Languages Used in Repositories
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaebrahimi5&layout=compact&theme=radical)
 
