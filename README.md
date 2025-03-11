@@ -81,14 +81,14 @@ I am a **Full Stack Software Engineer** with over **8 years of professional expe
 
 <div align="center">
   <!-- Achievements Row -->
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=alirezaebrahimi5&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Achievements" />
- -->
+  <img src="https://github-profile-trophy.vercel.app/?username=alirezaebrahimi5&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Achievements" />
+
   <!-- Stats and Graphs Row -->
   <table>
     <tr>
       <td>
         <a href="https://git.io/awesome-stats-card">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezaebrahimi5&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Achievements" />
+          <img src="https://awesome-github-stats.azurewebsites.net/user-stats/alirezaebrahimi5?cardType=level&theme=merko&preferLogin=false" alt="My GitHub Stats" />
         </a>
       </td>
       <td>
