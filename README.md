@@ -18,11 +18,11 @@ Here are some of my notable projects:
 
 ### gclub
 
-[![Termile](https://github-readme-stats.vercel.app/api/pin/?username=alirezaebrahimi5&repo=termile&theme=radical)](https://github.com/alirezaebrahimi5/gclub)
+[![Termile](https://github-readme-stats.vercel.app/api/pin/?username=alirezaebrahimi5&repo=gclub&theme=radical)](https://github.com/alirezaebrahimi5/gclub)
 
 ### eigen
 
-[![Termile](https://github-readme-stats.vercel.app/api/pin/?username=alirezaebrahimi5&repo=termile&theme=radical)](https://github.com/alirezaebrahimi5/eigen)
+[![Termile](https://github-readme-stats.vercel.app/api/pin/?username=alirezaebrahimi5&repo=eigen&theme=radical)](https://github.com/alirezaebrahimi5/eigen)
 
 ### Git-Based Architecture Visualizer
 
